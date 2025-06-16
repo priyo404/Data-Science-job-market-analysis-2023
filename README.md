@@ -101,7 +101,7 @@ ORDER BY
     limit 10
 ;
 ```
-Output- Top companies need data people (counting job post roles)
+Output- Top companies need data people (Bd jobs should not be considered here due to being a job portal)
 
 ![Companies recruting](https://raw.githubusercontent.com/priyo404/Data-Science-job-market-analysis-2023/main/1.png)
 

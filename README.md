@@ -2,7 +2,7 @@
 📊A Simple Analysis of the 2023 Job Market in the Field of Data Science Using SQL
 This project explores trends and insights from the 2023 data science job market using real-world data (700k+ records). Through structured SQL queries and analysis, it investigates job demand, top companies, in-demand skills, and salary patterns — both in Bangladesh and globally.
 
-Full SQL Code: [View SQL Code](Priyo_Project.sql) 
+Full SQL Code: [Priyo_Project](Priyo's_Project.sql) 
 # 🎯 Objective :
 I aimed to understand the data science job market both in Bangladesh and globally, focusing on:
 

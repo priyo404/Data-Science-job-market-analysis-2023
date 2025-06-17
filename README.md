@@ -81,7 +81,7 @@ GROUP BY
     job_postings_fact.salary_hour_avg
 ;
 ```
-Output- Bd_jobs table has been created.
+Output- Bangladesh jobs table has been created.
 
 ![Demanding job roles](https://raw.githubusercontent.com/priyo404/Data-Science-job-market-analysis-2023/main/5.png)
 
